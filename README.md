@@ -116,11 +116,3 @@ ___
  ___
  
  [VIDEO 4](VIDEO4.mp4)
- 
- ___
- 
- [VIDEO 5](VIDEO5.mp4)
- 
- ___
- 
- [VIDEO 6](VIDEO6.mp4)
